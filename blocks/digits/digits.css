@@ -1,0 +1,8 @@
+@import url(../table/__cell/table__cell.css);
+@import url(../table/__heading/table__heading.css);
+@import url(../table/__text/table__text.css);
+@import url(../table/table.css);
+.digits {
+    width: 80%;
+    margin: 100px auto 0;
+}
